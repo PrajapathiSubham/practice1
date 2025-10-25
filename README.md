@@ -1,2 +1,2 @@
 # practice1
-these is my first repository
+the practice file by using html and css
